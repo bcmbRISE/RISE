@@ -10,4 +10,4 @@ RISE seeks to increase retention of new and existing PhD students through partne
 
 ### The PhD Survival guide
 
-A PhD survival guide will be created as a key resource for students seeking FAQ-style advice in the department. It will contain advice regarding common expectations for each year in the PhD, as well as resources for current grant/scholarship opportunities.
+A [PhD survival guide](https://github.com/bcmbRISE/RISE/wiki) has been created as a key resource for students seeking FAQ-style advice in the department. It will contain advice regarding common expectations for each year in the PhD, as well as resources for current grant/scholarship opportunities.
