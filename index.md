@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to BCMB!
 
-You can use the [editor on GitHub](https://github.com/bcmbRISE/RISE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**RISE** (Retention and Inclusion program for Student Excellence) is a new mentorship program run by the Biochemistry Graduate Students Association, funded by the University of Georgia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+### Goals of RISE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+RISE seeks to increase retention of new and existing PhD students through partnership of senior and junior graduate students. Mentors and mentees will be matched, with regular check-ins to help with common issues in graduate school from navigating coursework, presenting at conferences, and passing qualifying exams. Assessment surveys will be used to provide metrics to the graduate school on whether the program is meeting its goals.
 
-```markdown
-Syntax highlighted code block
+### The PhD Survival guide
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bcmbRISE/RISE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A PhD survival guide will be created as a key resource for students seeking FAQ-style advice in the department. It will contain advice regarding common expectations for each year in the PhD, as well as resources for current grant/scholarship opportunities.
